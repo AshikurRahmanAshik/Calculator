@@ -18,6 +18,8 @@
     <color name="DarkOrange">#FF8C00</color>
     <color name="GoldenRod">#DAA520</color>
     <color name="AshGrey">#b2beb5</color>
+    <color name="Grey">#808080</color>
+    <color name="Silver">#C0C0C0</color>
     <color name="Black">#000000</color>
     <color name="White">#FFFFFF</color>
 </resources>
